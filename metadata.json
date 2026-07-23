@@ -1,0 +1,6 @@
+{
+  "name": "NoveN Fashion Advertising Platform",
+  "description": "An Alibaba-inspired fashion advertising and quotation request platform for NoveN apparel, footwear, caps, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
